@@ -1,3 +1,10 @@
-# Bienvenido a mi página
+# ¡Hola! Soy Mikel Martinez
 
-Hola, soy **[tu nombre]** y esta es mi web personal con MkDocs 🚀
+Estudiante de IABD4 especializado en Inteligencia y Big Data.
+
+## Sobre mí
+
+
+## Proyectos destacados 
+- Proyecto 1: [descripción]
+- Proyecto 2: [descripción]
