@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Mikel Martinez
 
 Estudiante de IABD4 especializado en Inteligencia y Big Data.
 
