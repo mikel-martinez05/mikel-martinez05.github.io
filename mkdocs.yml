@@ -5,40 +5,54 @@ site_url: https://mikel-martinez05.github.io
 theme:
   name: material
   language: es
+
   palette:
-    # Paleta de colores para el modo claro y oscuro
-    # Prueba a cambiar 'teal' y 'indigo' por otros colores primarios y de acento
-    # Colores primarios disponibles: red, pink, purple, indigo, blue, cyan, teal, green, orange, brown
-    # Colores de acento disponibles: red, pink, purple, indigo, blue, cyan, teal, green, orange
     - scheme: default
-      primary: teal
-      accent: indigo
+      primary: indigo
+      accent: light-blue
       toggle:
         icon: material/brightness-7
-        name: Cambiar a modo oscuro
+        name: Modo oscuro
     - scheme: slate
-      primary: black
-      accent: blue
+      primary: indigo
+      accent: cyan
       toggle:
         icon: material/brightness-4
-        name: Cambiar a modo claro
+        name: Modo claro
+
+  font:
+    text: "Poppins"
+    code: "JetBrains Mono"
+
   features:
+    - navigation.instant
     - navigation.tabs
-    - navigation.sections
     - navigation.top
+    - navigation.expand
+    - navigation.sections
     - search.suggest
     - search.highlight
-    - content.tabs.link
-    - content.code.annotation
     - content.code.copy
-  icon:
-    repo: fontawesome/brands/github
+    - header.autohide
+
+extra_css:
+  - styles/custom.css
+
+
+
 
 nav:
   - Inicio: index.md
-  - Sobre Mí: sobre-mi.md
-  - Proyectos: proyectos.md
+  - Experiencia: experiencia.md
+  - Formación: educacion.md
   - Contacto: contacto.md
 
 repo_url: https://github.com/mikel-martinez05/mikel-martinez05.github.io
-repo_name: mikel-martinez05/mikel-martinez05.github.io  
+repo_name: mikel-martinez05/mikel-martinez05.github.io
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mikel-martinez05
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/tuusuario  # opcional, cámbialo si tienes
