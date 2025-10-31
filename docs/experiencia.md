@@ -1,7 +1,7 @@
 # Experiencia
 
 ## Auxiliar en eventos
-- Trabajo como auxiliar en eventos. (Información básica del CV).
+- Trabajo como auxiliar en eventos.
 
 ## Prácticas
 - **RDT Ingenieros** — Prácticas sobre administracion de Moodle con PHP + SQL
